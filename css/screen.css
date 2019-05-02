@@ -15,8 +15,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 	
 }
 main {
-  width:       auto;
-  height:      400px;;
+  
 	margin-left: 10px;
 	margin-right: 10px;
 	/*background-color: #e9e9e9;*/
@@ -137,7 +136,7 @@ nav ul li a:hover {
 
 /* Add an "active" class to the current link to let the user know which page he/she is on */
 .active {
-    background-color: #4CAF50;
+    background-color: #ff0000;
     color: white;
 }
 
