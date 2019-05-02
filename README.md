@@ -1,2 +1,2 @@
-# itmd-361-chris
-Christine's Web Page
+# itmd-361-proj01
+ITMD 361 Fundamentals of Web Development Proj01
